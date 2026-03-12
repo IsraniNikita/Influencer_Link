@@ -2,6 +2,8 @@
 
 InfluencerLink is a responsive, multi-page web application designed with a dark, premium luxury aesthetic. It serves as a mock platform designed to connect top-tier creators with premium brands for high-quality partnerships.
 
+**🌎 Live Demo:** [https://IsraniNikita.github.io/Influencer_Link/](https://IsraniNikita.github.io/Influencer_Link/)
+
 ## 🚀 Features
 
 - **Home Page (`index.html`)**: Features a premium hero section, exclusive creator highlights, testimonials, and premium brand partner logos.
